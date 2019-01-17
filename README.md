@@ -1,6 +1,6 @@
 ## Quiz 4 ##
 
-Number 12: Class Scheduling
+Number 11 Part 2: Class Scheduling
 ```
 function classScheduling() {
   let numberOfStudents = prompt("Please enter the number of students in a class:");
